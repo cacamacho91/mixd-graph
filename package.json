@@ -1,0 +1,15 @@
+{
+  "name": "mixd-graph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cacamacho91/mixd-graph.git",
+  "author": "Chris Camacho <cacamacho91@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.12.0",
+    "graphql": "^15.0.0"
+  },
+  "scripts": {
+    "graph": "node index.ts"
+  }
+}
